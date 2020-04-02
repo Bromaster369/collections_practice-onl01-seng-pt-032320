@@ -10,8 +10,9 @@ def sort_array_desc(array)
   end
 end
 
-def sort_array_char_count
-  array.sort do | |
+def sort_array_char_count(array)
+  array.sort do |a, b|
+    
   
 end
 
