@@ -38,6 +38,7 @@ end
 def sum_array(array)
   
   array.inject do 
+  end
 end     
 
 def add_s(array)
